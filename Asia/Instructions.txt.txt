@@ -1,0 +1,6 @@
+You decide to go to Asia.
+Where in Asia do you want to go?
+
+1. China
+2. Japan
+3. Korea

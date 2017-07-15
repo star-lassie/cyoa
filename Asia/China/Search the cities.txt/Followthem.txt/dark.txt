@@ -1,0 +1,6 @@
+As you follow the men, they end up in front of a warehouse. They knock a specific pattern on the door and it opens.
+You get a glimpse inside and see that there are magical creatures locked up in cages, crammed into the warehouse.
+You want to rescue the creatures inside. Do you attempt to break them out now, or wait until nightfall?
+
+1. Now!
+2. Nightfall

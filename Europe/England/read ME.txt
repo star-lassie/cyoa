@@ -1,0 +1,5 @@
+You decide to head to England. You hope to find a wild unicorn.
+Do you go to the Forest, or to the Seaside?
+
+1. Forest
+2. Seaside

@@ -1,0 +1,5 @@
+You decide to head to China. While there, you hope to find the legendary Chinese Phoenix.
+As you arrive, you have two choices. Do you head to the country or search in the cities?
+
+1. Search the Country Side
+2. Search the Cities

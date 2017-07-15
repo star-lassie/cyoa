@@ -1,0 +1,5 @@
+You apperate into the warehouse and start taking down thugs left and right. However, there are too many of them and they manage to capture you.
+Do you wait and see where they will take you or do you try to escape?
+
+1. Wait and see
+2. Escape
